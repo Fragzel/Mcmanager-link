@@ -202,9 +202,9 @@ The application offers a **modern and intuitive interface** with:
 
 **Oscar Pirrone**  
 💼 **Full-Stack Developer**  
-📧 Email: oscar.pirrone33@gmail.com                        
-🌐 GitHub: [https://github.com/Fragzel](https://github.com/Fragzel)
-🔗 LinkedIn: www.linkedin.com/in/oscar-pirrone-5649621b1
+📧 Email: oscar.pirrone33@gmail.com                         
+🌐 GitHub: [https://github.com/Fragzel](https://github.com/Fragzel)                
+🔗 LinkedIn: www.linkedin.com/in/oscar-pirrone-5649621b1         
 
 ---
 
