@@ -1,0 +1,60 @@
+# 🚀 MCManager - Quick Start Guide
+
+**⚡ Modern HR Application - Test in 5 minutes**
+
+## 🌐 **Direct Access**
+👉 **[https://mcmanager-app.onrender.com](https://mcmanager-app.onrender.com)**
+
+---
+
+## 🔑 **Test Accounts**
+
+### 👨‍💼 **Administrator** (Full Access)
+```
+📧 Email: admin@gmail.com
+🔒 Password: admin
+```
+
+### 👤 **Employee** (Limited Access)
+```
+📧 Email: jean.kevin@gmail.com  
+🔒 Password: admin
+```
+
+---
+
+## ⚡ **Quick Test - 3 Steps**
+
+### 1️⃣ **Admin Login** 🔐
+- 🚀 Log in with admin account
+- 📊 Explore the **Dashboard** (HR indicators)
+- 👥 Visit **Staff** → Create a new employee
+
+### 2️⃣ **Leave Management** 📅
+- 📝 Go to **Leave Requests**
+- ✅ Create a request then **approve it**
+- 🗓️ Check the team **Planning**
+
+### 3️⃣ **Employee Test** 👤
+- 🔄 Log out and log in with employee account
+- 📝 Create a **leave request**
+- 🔔 Observe **real-time notifications**
+
+---
+
+## 🛠️ **Technologies**
+**🖥️ Frontend:** Vue 3 + TypeScript + Vuetify  
+**⚙️ Backend:** Node.js + Express + MongoDB  
+**🐳 Infrastructure:** Docker + Nginx + WebSocket
+
+## 🎯 **Key Features**
+✅ Complete staff management 👥  
+✅ Leave system with validation 📅  
+✅ Documents with secure sharing 📄  
+✅ Real-time notifications (WebSocket) 🔔  
+✅ Interactive analytics dashboard 📊  
+✅ Granular permission system 🔐
+
+---
+
+**💡 The application is production-ready and fully scalable!** 🚀 
